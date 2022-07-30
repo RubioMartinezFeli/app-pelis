@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/app-pelis/static/css/main.97ba19f6.css",
-    "main.js": "/app-pelis/static/js/main.930a7c73.js",
-    "index.html": "/app-pelis/index.html",
-    "main.97ba19f6.css.map": "/app-pelis/static/css/main.97ba19f6.css.map",
-    "main.930a7c73.js.map": "/app-pelis/static/js/main.930a7c73.js.map"
+    "main.css": "/static/css/main.97ba19f6.css",
+    "main.js": "/static/js/main.930a7c73.js",
+    "index.html": "/index.html",
+    "main.97ba19f6.css.map": "/static/css/main.97ba19f6.css.map",
+    "main.930a7c73.js.map": "/static/js/main.930a7c73.js.map"
   },
   "entrypoints": [
     "static/css/main.97ba19f6.css",
